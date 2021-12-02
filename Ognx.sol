@@ -1,5 +1,5 @@
 /**
- *Submitted for verification at BscScan.com on 2021-09-21
+ *Submitted for verification at BscScan.com on 2021-12-01
 */
 
 // SPDX-License-Identifier: MIT
@@ -199,7 +199,7 @@ abstract contract Ownable is Context {
 	}
 }
 
-contract Ogxn is IERC20, Ownable {
+contract Originex is IERC20, Ownable {
 
 	using SafeMath
 	for uint;
